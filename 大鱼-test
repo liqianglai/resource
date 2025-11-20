@@ -1,0 +1,1311 @@
+#-------- 公共配置 --------
+
+# 压测
+124.250.103.66  ucpts.100tal.com
+
+#-------- 测试环境 --------
+
+# 天工测试后端接口 
+120.52.32.211 booster.xueersi.com
+
+#客服
+120.52.32.211 service.xesv5.com  
+#120.52.32.
+211 app.xueersi.com
+120.52.32.211 api.xueersi.com
+
+# 一站式工作台
+120.52.32.211 kefu.xesv5.com 
+120.52.32.211 kefu.saasw.vdyoo.com
+10.90.31.110 ls-svc.xesv5.com
+
+#客服知识库https://login.xueersi.com/newLogin/logout/?redirect_url=https://login.xueersi.com/?redirect_url=https%3A%2F%2Fapp.xueersi.com%2Fsrm-app%2F%23%2Fdashboardl z z z
+120.52.32.211  zhishiku.xesv5.com
+
+
+# 测试环境host
+# 接口
+120.52.32.211  app.xesv5.com
+
+120.52.32.211 touch.xueersi.com 
+120.52.32.211 api.xueersi.com
+
+#高中学科
+120.52.32.211 app.xessuyang.com 
+
+# 素养
+
+# 促销-后置赠-用户画像
+
+#权限管理后台：
+120.52.32.211 app-inner.xesv5.com
+
+# 师资
+124.250.113.88 yapi.xesv5.com
+
+# 成长体系
+# 页面
+120.52.32.211  sco.xueersi.com
+
+120.52.32.211  job.xesv5.com
+# 4s
+120.52.32.211  s4.xueersi.com
+120.52.32.211  s4.xesv5.com
+120.52.32.211  4s.xueersi.com
+120.52.32.211  4s.xesv5.com
+
+#乐高后台
+124.250.113.18 legao.xueersi.com
+
+# 供应链
+
+120.52.32.211 scm.xesv5.com
+
+220.194.87.190 testmv.xesimg.com
+
+10.90.71.149 mgqatool.xesv5.com
+
+10.90.71.118 autocounselor.xesv5.com
+
+120.52.32.211 yingxiao.xesv5.com
+
+#财务
+10.90.70.62 orderapi.xesv5.com
+
+#push推送
+182.92.255.81 gslb.msg.xescdn.com  
+
+#120.52.32.211 app.xueersi.com
+120.52.32.211 api.xueersi.com
+
+#建课
+10.90.71.149 mgqatool.xesv5.com
+
+#物流
+10.90.70.68 otmsapi.xesv5.com
+# 优选课前端
+#120.52.32.211  libs.xesimg.com
+120.52.32.211  activity.xueersi.com
+#AB侧测试
+120.52.32.211 ab.xesv5.com
+120.52.32.211 abs.xesv5.com
+#自研机器人测试
+120.52.32.211 tmcdsapi.xesv5.com
+#120.52.32.211 app.xueersi.com
+120.52.32.211 api.xueersi.com
+
+#客诉发布-大禹平台
+#10.90.72.141 app.xueersi.com 
+
+# 上传文件
+10.90.70.102 cloud.xesv5.com
+120.52.32.211  storagefe.xesv5.com
+120.52.32.211  storage.xesv5.com
+10.90.70.102 cloud.xesv5.com
+
+
+#---------APP 消息系统
+120.52.32.211 appmsgadmin.xesv5.com
+10.90.71.56 appmsg.xesv5.com
+#10.90.70.103 appmsgapi.xesv5.com
+10.90.71.56 appmsgapi.xesv5.com
+
+# 快递查询
+120.52.32.211 api.xueersi.com
+
+#appeal
+#120.52.32.211 app.xueersi.com
+#k8s
+10.90.72.83  k8stest.xesv5.com
+
+#金币预算后台
+120.52.32.211 admin.xesv5.com
+120.52.32.211 app.xesv5.com
+120.52.32.211 kefu.xesv5.com
+120.52.32.211  ocenter.xueersi.com  
+120.52.32.211  trade.xueersi.com  
+120.52.32.211  account.xueersi.com  
+120.52.32.211  open.xueersi.com  
+120.52.32.211  goldopen.xueersi.com
+120.52.32.211  home.xueersi.com  
+120.52.32.211  record.xueersi.com  
+120.52.32.211  i.xueersi.com
+
+#营销工作台最新更换域名，最新host
+120.52.32.211 app-inner.xesv5.com
+
+#  后台项目
+120.52.32.211  app.xesv5.com
+120.52.32.211  admin.xesv5.com  
+120.52.32.211  custom.xesv5.com  
+120.52.32.211  accountmgr.xesv5.com  
+120.52.32.211  express.xesv5.com  
+120.52.32.211  static.xesv5.com  
+120.52.32.211  appeal.xesv5.com  
+120.52.32.211  appealadmin.xesv5.com  
+120.52.32.211  erpadmin.xesv5.com  
+120.52.32.211  recruit.xesv5.com  
+120.52.32.211  admin.sms.xesv5.com  
+120.52.32.211  tikuprodweb.xesv5.com
+120.52.32.211  tiku.xesv5.com
+120.52.32.211  tikuadmin.xesv5.com
+120.52.32.211  tikuapi.xesv5.com
+
+
+
+#  老项目
+120.52.32.211  admin.xueersi.com  
+120.52.32.211  video.xueersi.com  
+
+#  项目依赖
+
+120.52.32.211  i.xueersi.com
+
+#商城
+120.52.32.211  cart.xueersi.com
+120.52.32.211  bizadmin.xesv5.com
+120.52.32.211  mall.xueersi.com
+120.52.32.211  laoshi.xueersi.com
+120.52.32.211  examination.xueersi.com
+120.52.32.211  exam.xueersi.com
+120.52.32.211  reg.xueersi.com
+120.52.32.211  www.xueersi.com
+120.52.32.211  touch.xueersi.com
+#120.52.32.211  weixin.xueersi.com
+120.52.32.211  ocenter.xueersi.com
+120.52.32.211  trade.xueersi.com
+120.52.32.211  bizadminv4.xesv5.com
+120.52.32.211  gwadmin.beta.xesv5.com
+120.52.32.211  configure.xesv5.com
+120.52.32.211  configureadmin.xesv5.com
+120.52.32.211  expapisrv.xesv5.com
+120.52.32.211  expadminserver.xesv5.com
+120.52.32.211  expadmin.xesv5.com
+120.52.32.211  student.xueersi.com
+120.52.32.211  expclass.xueersi.com
+
+120.52.32.211  bizcrm.xesv5.com
+120.52.32.211  expapi.xueersi.com
+120.52.32.211  expstatic.xueersi.com
+120.52.32.211  exp.xesimg.com
+120.52.32.211  g.xueersi.com
+120.52.32.211  expadminapi.xesv5.com
+
+120.52.32.211  artemis.xueersi.com
+120.52.32.211  ad.xueersi.com
+120.52.32.211  ads.xueersi.com
+120.52.32.211  yingxiao.xesv5.com
+120.52.32.211  teacher.xueersi.com
+120.52.32.211  biglive.xueersi.com
+
+120.52.32.211  bizlecture.xesv5.com
+120.52.32.211  bizteacher.xueersi.com
+120.52.32.211  touch.xueersi.com
+
+
+
+#前端资源
+
+
+
+10.90.70.52 stucouapi.xesv5.com
+10.90.70.38 cardcouponapi.xesv5.com
+
+#日志测试
+120.52.32.211 appdj.xesimg.com
+
+
+#erp
+120.52.32.211 erpapi.xesv5.com
+120.52.32.211 erpadmin.xesv5.com
+120.52.32.211 erp.xesv5.com
+
+#Appg管理平台
+120.52.32.211 appadmin.xesv5.com
+120.52.32.211 appweb.xesv5.com
+
+
+#新注册登录
+120.52.32.211 passport.100tal.com
+
+
+10.90.70.70  adminapi.xesv5.com
+
+
+
+120.52.32.211 otms.xesv5.com
+
+#OTMS物流
+120.52.32.211 otms.xesv5.com
+
+# jira老环境
+#192.168.123.15 jira.xesv5.com
+
+
+# 客诉
+120.52.32.211 admin.xesv5.com
+120.52.32.211 appeal.xesv5.com 
+120.52.32.211 appealadmin.xesv5.com
+120.52.32.211 eolinker.xesv5.com
+# 客诉防止埋点打到线上：
+120.52.32.211 dj.xesimg.com
+# 客诉-OTMS
+120.52.32.211 otms.xesv5.com
+
+# 金币需求
+#10.90.100.133 goldapi.xesv5.com
+
+# 金币兑吧
+120.52.32.211 home.xueersi.com
+
+
+# 智能客服 
+120.52.32.211 api.xueersi.com
+#120.52.32.211 app.xueersi.com
+##10.90.72.59 tmcdsapi.xesv5.com
+120.52.32.211 tmcdsapi.xesv5.com
+#AB平台
+120.52.32.211 ab.xesv5.com
+120.52.32.211  abs.xesv5.com
+
+# # 测试环境api-有网关
+#10.90.70.103 adminapi.xesv5.com
+#10.90.70.103 cardcouponapi.xesv5.com
+#10.90.70.103 courseapi.xesv5.com
+#10.90.70.103 goldapi.xesv5.com
+#10.90.70.103 orderapi.xesv5.com
+#10.90.70.103 otmsapi.xesv5.com
+#10.90.70.103 promotionapi.xesv5.com
+#10.90.70.103 stucouapi.xesv5.com
+#10.90.70.103 teacherapi.xesv5.com
+#10.90.70.103 userapi.xesv5.com
+#10.90.70.103 erpapi.xesv5.com
+#10.90.70.103 sms.xesv5.com
+
+# 测试环境api-无网关
+# 10.90.70.70 adminapi.xesv5.com
+# 10.90.70.38 cardcouponapi.xesv5.com
+# 10.90.70.32 courseapi.xesv5.com
+10.90.70.53 goldapi.xesv5.com
+
+# 10.90.70.62 orderapi.xesv5.com
+# 10.90.70.68 otmsapi.xesv5.com
+# 10.90.70.67 promotionapi.xesv5.com
+# 10.90.70.52 stucouapi.xesv5.com
+# 10.90.70.61 teacherapi.xesv5.com
+# 10.90.70.71 userapi.xesv5.com
+# 10.90.70.50 erpapi.xesv5.com
+# 10.90.71.83 sms.xesv5.com
+
+## 接口文档host
+120.52.32.211 eolinker.xesv5.com
+
+
+# 测试环境api-无网关
+#10.90.70.70 adminapi.xesv5.com
+#10.90.70.38 cardcouponapi.xesv5.com
+
+#10.90.70.32 courseapi.xesv5.com
+10.90.70.53 goldapi.xesv5.com
+120.52.32.211 goldapi.xesv5.com
+## 登录
+
+120.52.32.211 app.arts.xueersi.com
+120.52.32.211 app.chs.xueersi.com
+120.52.32.211 imapp.xueersi.com
+
+120.52.32.211 adminapp.xesv5.com
+120.52.32.211 pzcenter.xueersi.com
+
+120.52.32.211 appweb.xesv5.com
+120.52.32.211 mq.xesv5.com
+
+# 一站式工作台
+#10.90.72.87 kefu.xesv5.com
+120.52.32.211 kefu.xesv5.com
+# 网易七鱼
+10.90.72.83 call-feature.xesv5.com
+
+#直播
+120.52.32.211 studentlive.xueersi.com
+
+#APP消息系统
+120.52.32.211 appmsgadmin.xesv5.com
+120.52.32.211 appmsg.xesv5.com
+120.52.32.211 appmsgapi.xesv5.com
+39.104.88.126 replayqn.wangxiao.eaydu.com
+##  测试环境
+#  新测试环境
+
+#push推送
+182.92.255.81 gslb.msg.xescdn.com  
+
+#物流
+10.90.70.68 otmsapi.xesv5.com
+  
+
+#客诉发布-大禹平台
+#10.90.72.141 app.xueersi.com 
+
+# 上传文件
+10.90.70.102 cloud.xesv5.com
+120.52.32.211  storagefe.xesv5.com
+120.52.32.211  storage.xesv5.com
+10.90.70.102 cloud.xesv5.com
+
+
+#---------APP 消息系统
+120.52.32.211 appmsgadmin.xesv5.com
+10.90.71.56 appmsg.xesv5.com
+#10.90.70.103 appmsgapi.xesv5.com
+10.90.71.56 appmsgapi.xesv5.com
+
+# 快递查询
+120.52.32.211 api.xueersi.com
+
+#appeal
+#120.52.32.211 app.xueersi.com
+#k8s
+10.90.72.83  k8stest.xesv5.com
+
+#金币预算后台
+120.52.32.211 admin.xesv5.com
+120.52.32.211 app.xesv5.com
+120.52.32.211 kefu.xesv5.com
+120.52.32.211  ocenter.xueersi.com  
+120.52.32.211  trade.xueersi.com  
+120.52.32.211  account.xueersi.com  
+120.52.32.211  open.xueersi.com  
+120.52.32.211  goldopen.xueersi.com
+120.52.32.211  home.xueersi.com  
+120.52.32.211  record.xueersi.com  
+120.52.32.211  i.xueersi.com
+#  后台项目
+120.52.32.211  app.xesv5.com
+120.52.32.211  admin.xesv5.com  
+120.52.32.211  custom.xesv5.com  
+120.52.32.211  accountmgr.xesv5.com  
+120.52.32.211  express.xesv5.com  
+120.52.32.211  static.xesv5.com  
+120.52.32.211  appeal.xesv5.com  
+120.52.32.211  appealadmin.xesv5.com  
+120.52.32.211  erpadmin.xesv5.com  
+120.52.32.211  recruit.xesv5.com  
+120.52.32.211  admin.sms.xesv5.com  
+120.52.32.211  tikuprodweb.xesv5.com
+120.52.32.211  tiku.xesv5.com
+120.52.32.211  tikuadmin.xesv5.com
+120.52.32.211  tikuapi.xesv5.com
+
+#  老项目
+120.52.32.211  admin.xueersi.com  
+120.52.32.211  video.xueersi.com  
+
+#  项目依赖
+
+120.52.32.211  i.xueersi.com
+
+#商城
+120.52.32.211  cart.xueersi.com
+120.52.32.211  bizadmin.xesv5.com
+120.52.32.211  mall.xueersi.com
+120.52.32.211  laoshi.xueersi.com
+120.52.32.211  examination.xueersi.com
+120.52.32.211  exam.xueersi.com
+120.52.32.211  reg.xueersi.com
+120.52.32.211  www.xueersi.com
+120.52.32.211  touch.xueersi.com
+#120.52.32.211  weixin.xueersi.com
+120.52.32.211  ocenter.xueersi.com
+120.52.32.211  trade.xueersi.com
+120.52.32.211  bizadminv4.xesv5.com
+120.52.32.211  gwadmin.beta.xesv5.com
+120.52.32.211  configure.xesv5.com
+120.52.32.211  configureadmin.xesv5.com
+120.52.32.211  expapisrv.xesv5.com
+120.52.32.211  expadminserver.xesv5.com
+120.52.32.211  expadmin.xesv5.com
+120.52.32.211  student.xueersi.com
+120.52.32.211  expclass.xueersi.com
+
+120.52.32.211  bizcrm.xesv5.com
+120.52.32.211  expapi.xueersi.com
+120.52.32.211  expstatic.xueersi.com
+120.52.32.211  exp.xesimg.com
+120.52.32.211  g.xueersi.com
+120.52.32.211  expadminapi.xesv5.com
+
+120.52.32.211  artemis.xueersi.com
+120.52.32.211  ad.xueersi.com
+120.52.32.211  ads.xueersi.com
+120.52.32.211  yingxiao.xesv5.com
+120.52.32.211  teacher.xueersi.com
+120.52.32.211  biglive.xueersi.com
+
+120.52.32.211  bizlecture.xesv5.com
+120.52.32.211  bizteacher.xueersi.com
+120.52.32.211  touch.xueersi.com
+
+
+
+#前端资源
+120.52.32.211  res01.xesimg.com
+120.52.32.211  res02.xesimg.com
+120.52.32.211  res03.xesimg.com
+120.52.32.211  res04.xesimg.co
+120.52.32.211  res05.xesimg.com
+120.52.32.211  res06.xesimg.com
+120.52.32.211  res12.xesimg.com
+120.52.32.211  res13.xesimg.com
+120.52.32.211  res14.xesimg.com
+120.52.32.211  res15.xesimg.com
+120.52.32.211  res16.xesimg.com
+120.52.32.211  res17.xesimg.com
+120.52.32.211  res18.xesimg.com
+120.52.32.211  lib01.xesimg.com
+120.52.32.211  lib02.xesimg.com
+120.52.32.211  lib03.xesimg.com
+120.52.32.211  lib04.xesimg.com
+
+120.52.32.211  img03.xesimg.com
+120.52.32.211  css03.xesimg.com
+120.52.32.211  js03.xesimg.com
+120.52.32.211  img04.xesimg.com
+120.52.32.211  css04.xesimg.com
+120.52.32.211  js04.xesimg.com
+120.52.32.211 static.xesimg.com
+
+120.52.32.211 xes01.xesimg.com
+120.52.32.211 xes02.xesimg.com
+120.52.32.211 xes03.xesimg.com
+120.52.32.211 xes04.xesimg.com
+120.52.32.211 flash.xesimg.com
+120.52.32.211 res16.xesimg.com
+120.52.32.211 eolinker.xesv5.com
+
+
+10.90.70.52 stucouapi.xesv5.com
+10.90.70.38 cardcouponapi.xesv5.com
+
+#日志测试
+120.52.32.211 appdj.xesimg.com
+
+
+#erp
+120.52.32.211 erpapi.xesv5.com
+120.52.32.211 erpadmin.xesv5.com
+120.52.32.211 erp.xesv5.com
+
+#Appg管理平台
+120.52.32.211 appadmin.xesv5.com
+120.52.32.211 appweb.xesv5.com
+
+
+#新注册登录
+120.52.32.211 passport.100tal.com
+
+
+10.90.70.70  adminapi.xesv5.com
+
+
+
+120.52.32.211 otms.xesv5.com
+
+#OTMS物流
+120.52.32.211 otms.xesv5.com
+
+# jira老环境
+#192.168.123.15 jira.xesv5.com
+
+
+# 客诉
+120.52.32.211 admin.xesv5.com
+120.52.32.211 appeal.xesv5.com 
+120.52.32.211 appealadmin.xesv5.com
+120.52.32.211 eolinker.xesv5.com
+# 客诉防止埋点打到线上：
+120.52.32.211 dj.xesimg.com
+# 客诉-OTMS
+120.52.32.211 otms.xesv5.com
+
+# 金币需求
+#10.90.100.133 goldapi.xesv5.com
+
+# 金币兑吧
+120.52.32.211 home.xueersi.com
+
+
+10.90.70.53 goldapi.xesv5.com
+
+
+
+## 接口文档host
+120.52.32.211 eolinker.xesv5.com
+
+
+#10.90.70.32 courseapi.xesv5.com
+10.90.70.53 goldapi.xesv5.com
+120.52.32.211 goldapi.xesv5.com
+
+
+120.52.32.211 app.arts.xueersi.com
+120.52.32.211 app.chs.xueersi.com
+120.52.32.211 imapp.xueersi.com
+
+120.52.32.211 adminapp.xesv5.com
+120.52.32.211 pzcenter.xueersi.com
+
+120.52.32.211 appweb.xesv5.com
+120.52.32.211 mq.xesv5.com
+
+# 一站式工作台
+#10.90.72.87 kefu.xesv5.com
+120.52.32.211 kefu.xesv5.com
+# 网易七鱼
+10.90.72.83 call-feature.xesv5.com
+
+#直播
+120.52.32.211 studentlive.xueersi.com
+
+#APP消息系统
+120.52.32.211 appmsgadmin.xesv5.com
+120.52.32.211 appmsg.xesv5.com
+120.52.32.211 appmsgapi.xesv5.com
+39.104.88.126 replayqn.wangxiao.eaydu.com
+#增长
+127.0.0.1 abc.xueersi.com
+120.52.32.211 ads.xueersi.com
+120.52.32.211. eolinker.xesv5.com
+120.52.32.211 outwardmall.xueersi.com
+120.52.32.211 synmall.xueersi.com
+120.52.32.211 backmall.xesv5.com 
+120.52.32.211  cart.xueersi.com
+120.52.32.211  bizadmin.xesv5.com
+120.52.32.211  mall.xueersi.com
+120.52.32.211  laoshi.xueersi.com
+120.52.32.211  examination.xueersi.com
+120.52.32.211  exam.xueersi.com
+120.52.32.211  reg.xueersi.com
+120.52.32.211  www.xueersi.com
+120.52.32.211  touch.xueersi.com
+#120.52.32.211  weixin.xueersi.com
+120.52.32.211  ocenter.xueersi.com
+120.52.32.211  trade.xueersi.com
+120.52.32.211  bizadminv4.xesv5.com
+120.52.32.211  admin.xesv5.com
+120.52.32.211  gwadmin.beta.xesv5.com
+120.52.32.211  configure.xesv5.com
+120.52.32.211  configureadmin.xesv5.com
+120.52.32.211  expapisrv.xesv5.com
+120.52.32.211  expadminserver.xesv5.com
+120.52.32.211  expadmin.xesv5.com
+120.52.32.211  student.xueersi.com
+120.52.32.211  expclass.xueersi.com
+120.52.32.211  admin.xueersi.com
+120.52.32.211  bizcrm.xesv5.com
+120.52.32.211  expapi.xueersi.com
+120.52.32.211  expstatic.xueersi.com
+120.52.32.211  exp.xesimg.com
+120.52.32.211  g.xueersi.com
+120.52.32.211  expadminapi.xesv5.com
+120.52.32.211  res01.xesimg.com
+120.52.32.211  res02.xesimg.com
+120.52.32.211  res03.xesimg.com
+120.52.32.211  res04.xesimg.com
+120.52.32.211  res05.xesimg.com
+120.52.32.211  res06.xesimg.com
+120.52.32.211  res12.xesimg.com
+120.52.32.211  res13.xesimg.com
+120.52.32.211  res14.xesimg.com
+120.52.32.211  res15.xesimg.com
+120.52.32.211  res16.xesimg.com
+120.52.32.211  res17.xesimg.com
+120.52.32.211  res18.xesimg.com
+120.52.32.211  lib01.xesimg.com
+120.52.32.211  lib02.xesimg.com
+120.52.32.211  lib03.xesimg.com
+120.52.32.211  lib04.xesimg.com
+120.52.32.211  img03.xesimg.com
+120.52.32.211  css03.xesimg.com
+120.52.32.211  js03.xesimg.com
+120.52.32.211  img04.xesimg.com
+120.52.32.211  css04.xesimg.com
+120.52.32.211  js0
+120.52.32.211  bizactivity.xesv5.com
+120.52.32.211  activity.xueersi.com 
+120.52.32.211 booster.xueersi.com
+120.52.32.211  growth.xesv5.com
+120.52.32.211     growth.xueersi.com
+#120.52.32.211    weixin.xueersi.com
+120.52.32.211    wechatapi.xesv5.com
+120.52.32.211   growthapi.xesv5.com
+120.52.32.211  bizactivity.xesv5.com
+120.52.32.211  activity.xueersi.com 
+120.52.32.211 booster.xueersi.com
+# 前台项目
+120.52.32.211 ocenter.xueersi.com 
+120.52.32.211 trade.xueersi.com 
+120.52.32.211 account.xueersi.com 
+120.52.32.211 open.xueersi.com 
+120.52.32.211 home.xueersi.com
+
+# 2021.7.1
+# SwitchHosts!
+
+# My hosts
+# test001
+120.52.32.211 app.chs.xueersi.com
+#120.52.32.211 passport.100tal.com
+# 前台项目
+120.52.32.211 ocenter.xueersi.com 
+120.52.32.211 trade.xueersi.com 
+120.52.32.211 account.xueersi.com 
+120.52.32.211 open.xueersi.com 
+120.52.32.211 home.xueersi.com 
+
+120.52.32.211 record.xueersi.com
+# 题库应用平台
+120.52.32.211 tiku.xesv5.com
+120.52.32.211 tikuadmin.xesv5.com
+120.52.32.211 tikuapi.xesv5.com
+120.52.32.211 tikuprodweb.xesv5.com
+
+
+# 后台项目
+120.52.32.211 eolinker.xesv5.com
+# 10.90.70.102 eolinker.xesv5.com
+120.52.32.211 admin.xesv5.com 
+120.52.32.211 custom.xesv5.com 
+120.52.32.211 accountmgr.xesv5.com 
+120.52.32.211 express.xesv5.com 
+120.52.32.211 static.xesv5.com 
+120.52.32.211 appeal.xesv5.com 
+120.52.32.211 appealadmin.xesv5.com
+120.52.32.211 recruit.xesv5.com 
+120.52.32.211 admin.sms.xesv5.com 
+
+# 老项目
+120.52.32.211 admin.xueersi.com 
+120.52.32.211 video.xueersi.com 
+#------APP 测试环境
+#10.97.14.61 app-admin.xesv5.com
+120.52.32.211 app-admin.xesv5.com
+120.52.32.211 laoshi.xueersi.com
+
+# 项目依赖
+120.52.32.211 reg.xueersi.com
+#120.52.32.211 www.xueersi.com
+120.52.32.211 i.xueersi.com
+120.52.32.211 cart.xueersi.com
+120.52.32.211 mall.xueersi.com
+120.52.32.211 mallimg.xesimg.com
+
+#英语
+120.52.32.211 teacher.arts.xueersi.com
+120.52.32.211 app.arts.xueersi.com
+120.52.32.211 student.arts.xueersi.com
+120.52.32.211 teacherarts.xueersi.com
+120.52.32.211 live.arts.xueersi.com
+120.52.32.211 video.arts.xueersi.com
+120.52.32.211 static.arts.xueersi.com
+120.52.32.211 wenkeadmin.xesv5.com
+
+120.52.32.211 res01.xesimg.com
+120.52.32.211 res02.xesimg.com
+120.52.32.211 res03.xesimg.com
+120.52.32.211 res04.xesimg.com
+120.52.32.211 res05.xesimg.com
+120.52.32.211 res06.xesimg.com
+120.52.32.211 res12.xesimg.com
+120.52.32.211 res13.xesimg.com
+120.52.32.211 res14.xesimg.com
+120.52.32.211 res15.xesimg.com
+120.52.32.211 res16.xesimg.com
+120.52.32.211 res17.xesimg.com
+120.52.32.211 res18.xesimg.com
+120.52.32.211 lib01.xesimg.com
+120.52.32.211 lib02.xesimg.com
+120.52.32.211 lib03.xesimg.com
+120.52.32.211 lib04.xesimg.com
+
+120.52.32.211 img03.xesimg.com
+120.52.32.211 css03.xesimg.com
+120.52.32.211 js03.xesimg.com
+120.52.32.211 img04.xesimg.com
+120.52.32.211 css04.xesimg.com
+120.52.32.211 js04.xesimg.com
+120.52.32.211 static.xesimg.com
+120.52.32.211 res01.xesimg.com
+120.52.32.211 res02.xesimg.com
+120.52.32.211 res03.xesimg.com
+120.52.32.211 res04.xesimg.com
+120.52.32.211 res05.xesimg.com
+120.52.32.211 res06.xesimg.com
+120.52.32.211 xes01.xesimg.com
+120.52.32.211 xes02.xesimg.com
+120.52.32.211 xes03.xesimg.com
+120.52.32.211 xes04.xesimg.com
+120.52.32.211 flash.xesimg.com
+120.52.32.211 res16.xesimg.com
+
+#底层api
+10.90.70.70 adminapi.xesv5.com
+10.90.70.38 cardcouponapi.xesv5.com
+10.90.70.32 courseapi.xesv5.com
+#120.52.32.211 coursev2api.xesv5.com
+10.90.31.27 coursev2api.xesv5.com
+
+10.90.70.53 goldapi.xesv5.com
+10.90.70.62 orderapi.xesv5.com
+10.90.70.68 otmsapi.xesv5.com
+10.90.70.67 promotionapi.xesv5.com
+10.90.70.52 stucouapi.xesv5.com
+10.90.70.52 stucouv2api.xesv5.com
+# 10.90.70.61 teacherapi.xesv5.com
+#10.90.70.103 teacherapi.xesv5.com
+10.90.70.61 teacherv2api.xesv5.com
+10.90.70.71 userapi.xesv5.com
+10.90.71.83 sms.xesv5.com
+120.52.32.211 hssrv.xueersi.com
+# 10.90.70.102 mq.xesv5.com
+10.90.70.146 mq.xesv5.com
+
+120.52.32.211 mcube.xesv5.com 
+120.52.32.211 mcubeweb.xesv5.com
+#10.90.70.103 mcubeapi.xesv5.com
+
+# 教研
+120.52.32.211 tnt.xesv5.com
+120.52.32.211 tntapi.xesv5.com
+#课件平台
+120.52.32.211 courseware.xesv5.com
+#教研讲义
+120.52.32.211 jiaoyan.xesv5.com
+10.90.70.44 jiaoyanapi.xesv5.com
+120.52.32.211 material.xesv5.com
+10.90.71.93 materialapi.xesv5.com
+
+#页面
+10.90.72.193 galaxycms.xesv5.com
+10.90.72.193 galaxyh5.xesv5.com
+10.90.72.193 galaxyh5.xueersi.com
+#图片上传
+
+#还在调
+# 120.52.32.211 api.xesv5.com
+#120.52.32.211 app.xueersi.com
+120.52.32.211 api.xueersi.com
+120.52.32.211 mcube.xesv5.com
+# erp相关
+# 120.52.32.211 erpapi.xesv5.com
+10.90.70.50 erpapi.xesv5.com
+120.52.32.211 erpadmin.xesv5.com
+120.52.32.211 erp.xesv5.com
+120.52.32.211 jiaoyan.xesv5.com
+# 讲座
+120.52.32.211 lecturepie.xueersi.com
+120.52.32.211 app.xesv5.com
+# 创作者
+120.52.32.211 studentlive.xueersi.com
+120.52.32.211 scistatic.xueersi.com
+# 排课助手
+10.90.72.83 course-ass.xesv5.com
+# 巴别塔
+10.90.72.118 abadmin.xesv5.com
+# 师资管理
+120.52.32.211 teachercenter.xesv5.com
+120.52.32.211 teacheradmin.xesv5.com
+# 10.90.70.102 teacheradmin.xesv5.com
+
+#10.90.70.103 arnoldapi.xesv5.com
+#10.90.70.103 api.xesv5.com
+120.52.32.211 dj.xesimg.com
+120.52.32.211 rlp.xesv5.com
+
+#10.90.70.103 adminliveapi.xesv5.com
+10.90.100.138  teacheradmin.wx5.com
+#直播间
+120.52.32.211 livemanage.xesv5.com
+#10.90.70.103 coursewareapi.xesv5.com
+120.52.32.211 k8stest.xesv5.com
+#10.90.29.21 k8stest.xesv5.com
+120.52.32.211 bizadmin.xesv5.com
+# 考试信息
+10.90.70.54 tikuprodapi.xesv5.com
+
+10.90.71.149 mgqatool.xesv5.com
+124.250.113.88 etapi.xesv5.com
+10.90.71.118 autocounselor.xesv5.com
+10.90.29.173 zt-redis
+
+# SwitchHosts!
+
+# 后台项目
+120.52.32.211 admin.xesv5.com 
+120.52.32.211 custom.xesv5.com 
+120.52.32.211 accountmgr.xesv5.com 
+120.52.32.211 express.xesv5.com 
+120.52.32.211 static.xesv5.com 
+120.52.32.211 appeal.xesv5.com 
+120.52.32.211 appealadmin.xesv5.com 
+120.52.32.211 erpadmin.xesv5.com 
+120.52.32.211 recruit.xesv5.com 
+120.52.32.211 admin.sms.xesv5.com 
+
+#工作流
+120.52.32.211 jyworkflow.xesv5.com
+120.52.32.211 jyworkflowadmin.xesv5.com
+120.52.32.211 jyworkflowapi.xesv5.com
+
+#后台
+120.52.32.211 gwadmin.beta.xesv5.com
+120.52.32.211 admin.xesv5.com
+120.52.32.211 accountmgr.xesv5.com
+#生产看板
+120.52.32.211 jydashboard.xesv5.com
+# 题库应用平台
+120.52.32.211 tiku.xesv5.com
+120.52.32.211 tikuadmin.xesv5.com
+120.52.32.211 tikuapi.xesv5.com
+120.52.32.211 tikuprodweb.xesv5.com
+
+#客服管理后台
+120.52.32.211 custom.xesv5.com
+#题库音频
+10.97.14.20 xes01.xesimg.com
+10.97.14.20 xes02.xesimg.com
+10.97.14.20 xes03.xesimg.com
+10.97.14.20 xes04.xesimg.com
+#教研客户端
+120.52.32.211 jiaoyan.xueersi.com
+120.52.32.211 live.xueersi.com
+#素材库项目
+#120.52.32.211 materialapi.xesv5.com
+120.52.32.211 material.xesv5.com
+10.90.71.93 materialapi.xesv5.com
+
+
+#工单系统
+120.52.32.211 workorder.xesv5.com
+#教研标注体系
+120.52.32.211 jylabel.xesv5.com
+120.52.32.211 jylabelweb.xesv5.com
+#富文本编辑器
+# 教研讲义
+#大禹
+#10.90.72.141 jiaoyan.xesv5.com
+#互联
+120.52.32.211 jiaoyan.xesv5.com
+10.90.70.44 jiaoyanapi.xesv5.com
+#课件平台
+120.52.32.211 courseware.xesv5.com
+#单词库
+120.52.32.211 jywordadmin.xesv5.com 
+120.52.32.211 jyword.xesv5.com 
+#AI库
+120.52.32.211 ai.xesv5.com
+120.52.32.211 aiweb.xesv5.com
+#书籍平台
+120.52.32.211 jybook.xesv5.com
+120.52.32.211 jybookadmin.xesv5.com
+#教研门户项目
+120.52.32.211 tnt.xesv5.com
+120.52.32.211 tntapi.xesv5.com
+#魔方
+120.52.32.211 mcube.xesv5.com 
+120.52.32.211 mcubeweb.xesv5.com #接口
+#情系远山
+120.52.32.211 qxys.xesv5.com
+120.52.32.211 www.kechengku.cn
+120.52.32.211 record.xueersi.com
+# 闯关组词
+120.52.32.211  wordgroupadmin.xesv5.com
+120.52.32.211  wordgroup.xesv5.com
+# 思学堂
+120.52.32.211  sixuetang.xesv5.com
+120.52.32.211 sxtadmin.xesv5.com
+120.52.32.211 gwadmin.beta.xesv5.com
+120.52.32.211 static.xesv5.com
+120.52.32.211 rlp.xesv5.com
+120.52.32.211 rlpweb.xesv5.com
+#导播系统
+#120.52.32.211 app.xueersi.com
+#10.90.72.141 app.xueersi.com
+120.52.32.211 app.xesv5.com
+39.104.88.126 replayqn.wangxiao.eaydu.com
+39.104.88.126 replayws.wangxiao.eaydu.com
+
+#用户心声
+120.52.32.211 voiceweb.xesv5.com
+120.52.32.211 voice.xesv5.com
+120.52.32.211 formula.xesv5.com
+#未来课件
+100.100.100.100 xeslide_xesv5_upload_test.com
+120.52.32.211 xeslidelog.xesv5.com
+10.90.70.37  coursewareapi.xesv5.com
+120.52.32.211 eolinker.xesv5.com
+#jira测试
+124.250.113.51 jira.xesv5.com
+#信息共享中心
+120.52.32.211 helpweb.xesv5.com
+120.52.32.211 help.xesv5.com
+192.168.124.92 test.jiaoyan.com
+#120.52.32.211 xeslidelog.xesv5.com
+#线上排版流程
+120.52.32.211 erp.xesv5.com
+#10.90.70.103 erpapi.xesv5.com
+#视频url解析资源
+124.250.113.18 record.xueersi.com
+10.99.1.244 www.kechengku.cn
+10.99.1.244 admin.kechengku.cn
+#端上测试
+0.0.0.0 account.jetbrains.com
+0.0.0.0 www.jetbrains.com
+120.52.32.211 dj.xesimg.com
+120.52.32.211	abadmin.xesv5.com
+120.52.32.211	ability.xueersi.com
+120.52.32.211	account.xueersi.com
+120.52.32.211	accountmgr.xesv5.com
+120.52.32.211	activity.xueersi.com
+120.52.32.211	ad.xueersi.com
+120.52.32.211	admin.sms.xesv5.com
+120.52.32.211	admin.xesv5.com
+120.52.32.211	admin.xueersi.com
+120.52.32.211	adminapp.xesv5.com
+10.90.71.65	adminclient.xesv5.com
+120.52.32.211	adminsci.xesv5.com
+120.52.32.211	ads.xueersi.com
+39.104.83.109	api.msg.xescdn.com
+120.52.32.211	app.arts.xueersi.com
+120.52.32.211	app.chs.xueersi.com
+120.52.32.211	appdj.xesimg.com
+120.52.32.211	appeal.xesv5.com
+120.52.32.211	appealadmin.xesv5.com
+120.52.32.211	appserver.xueersi.com
+120.52.32.211	artemis.xueersi.com
+10.90.70.34	artswxapi.xesv5.com
+120.52.32.211	assembly.xueersi.com
+120.52.32.211	assist.xueersi.com
+120.52.32.211	biglive.xueersi.com
+120.52.32.211	bizactivity.xesv5.com
+120.52.32.211	bizadmin.xesv5.com
+120.52.32.211	bizadminv4.xesv5.com
+120.52.32.211	bizcrm.xesv5.com
+120.52.32.211	bizlecture.xesv5.com
+120.52.32.211	bizteacher.xueersi.com
+120.52.32.211	cart.xueersi.com
+39.104.92.159	chatastest.msg.xescdn.com
+39.104.83.109	chatgslb.xescdn.com
+39.104.83.109	chatgslb.xesimg.com
+39.104.92.159	chatpush.msg.xescdn.com
+#10.90.70.103	chsapi.xesv5.com
+124.250.113.66	code.xesv5.com
+124.250.113.66	code.xueersi.com
+120.52.32.211	configure.xesv5.com
+120.52.32.211	configureadmin.xesv5.com
+120.52.32.211	courseware.xesv5.com
+120.52.32.211	css03.xesimg.com
+120.52.32.211	css04.xesimg.com
+120.52.32.211	custom.xesv5.com
+120.52.32.211	dj.xesimg.com
+#120.52.32.211	eolinker.xesv5.com
+120.52.32.211	erpadmin.xesv5.com
+120.52.32.211	exam.xueersi.com
+120.52.32.211	examination.xueersi.com
+120.52.32.211	exp.xesimg.com
+120.52.32.211	expadmin.xesv5.com
+120.52.32.211	expadminapi.xesv5.com
+120.52.32.211	expadminserver.xesv5.com
+120.52.32.211	expapi.xueersi.com
+120.52.32.211	expapisrv.xesv5.com
+120.52.32.211	expclass.xueersi.com
+120.52.32.211	express.xesv5.com
+120.52.32.211	expstatic.xueersi.com
+120.52.32.211	flash.xesimg.com
+120.52.32.211	g.xueersi.com
+120.52.32.211	growth.xueersi.com
+120.52.32.211	growthapi.xesv5.com
+39.104.77.255	gslb.xueersi.com
+124.250.113.18	gslblog.xueersi.com
+120.52.32.211	gwadmin.beta.xesv5.com
+120.52.32.211	home.xueersi.com
+120.52.32.211	hs.xueersi.com
+120.52.32.211	hssrv.xueersi.com
+120.52.32.211	i.xueersi.com
+120.52.32.211	imapp.xueersi.com
+120.52.32.211	img03.xesimg.com
+120.52.32.211	img04.xesimg.com
+120.52.32.211	jiaoyan.xesv5.com
+120.52.32.211	js03.xesimg.com
+120.52.32.211	js04.xesimg.com
+120.52.32.211	keqing.xueersi.com
+10.90.101.151	kibana.platform.com
+10.90.72.28	kqapi.xesv5.com
+120.52.32.211	laoshi.xueersi.com
+120.52.32.211	lecture.xesimg.com
+120.52.32.211	lecture.xueersi.com
+120.52.32.211	lecturepie.xueersi.com
+120.52.32.211	lib01.xesimg.com
+120.52.32.211	lib02.xesimg.com
+120.52.32.211	lib03.xesimg.com
+120.52.32.211	lib04.xesimg.com
+120.52.32.211	live.arts.xueersi.com
+120.52.32.211	live.chs.xueersi.com
+120.52.32.211	live.xueersi.com
+10.90.71.67	livectrlcenter.xesv5.com
+124.250.113.5	livepub.xescdn.com
+39.104.73.37	livepubbak.xescdn.com
+39.104.73.37	livepubgz.xescdn.com
+39.104.73.37	livepubyz.xescdn.com
+39.104.125.184	livetestbak1.xescdn.com
+39.104.125.184	livetestbak2.xescdn.com
+39.104.125.184	livetestbak3.xescdn.com
+39.104.125.184	livetestgz1.xescdn.com
+39.104.125.184	livetestgz2.xescdn.com
+39.104.125.184	livetestgz3.xescdn.com
+39.104.125.184	livetestyz1.xescdn.com
+39.104.125.184	livetestyz2.xescdn.com
+39.104.125.184	livetestyz3.xescdn.com
+10.90.101.151	log.xescdn.com
+
+120.52.32.211 erpadmin.xesv5.com
+120.52.32.211 erp.xesv5.com
+120.52.32.211 scm.xesv5.com
+
+120.52.32.211 app.xesv5.com
+
+#10.90.70.103  api.xesv5.com
+
+# SwitchHosts!
+
+# 交易中心-测试
+# 新测试环境
+# 前台项目
+120.52.32.211 ocenter.xueersi.com 
+120.52.32.211 account.xueersi.com 
+120.52.32.211 open.xueersi.com 
+120.52.32.211 home.xueersi.com 
+
+120.52.32.211 record.xueersi.com
+
+# 后台项目
+120.52.32.211 admin.xesv5.com 
+120.52.32.211 custom.xesv5.com 
+120.52.32.211 accountmgr.xesv5.com 
+120.52.32.211 express.xesv5.com 
+120.52.32.211 static.xesv5.com 
+120.52.32.211 appeal.xesv5.com 
+120.52.32.211 appealadmin.xesv5.com 
+120.52.32.211 erpadmin.xesv5.com 
+120.52.32.211 recruit.xesv5.com 
+120.52.32.211 admin.sms.xesv5.com 
+10.90.70.103 userapi.xesv5.com
+10.90.70.103 courseapi.xesv5.com
+10.90.70.103 promotionapi.xesv5.com
+10.90.70.52 stucouapi.xesv5.com
+10.90.70.103 stucouv2api.xesv5.com
+10.90.70.103 orderapi.xesv5.com
+10.90.70.103 cardcouponapi.xesv5.com
+120.52.32.211 eolinker.xesv5.com
+10.90.70.103 openapi.xesv5.com
+120.52.32.211 passport.100tal.com
+120.52.32.211 pzcenter.xueersi.com
+
+120.52.32.211 app.arts.xueersi.com
+120.52.32.211 imapp.xueersi.com
+
+# 老项目
+120.52.32.211 admin.xueersi.com 
+120.52.32.211 video.xueersi.com 
+
+
+# 项目依赖
+120.52.32.211 i.xueersi.com
+120.52.32.211 mallimg.xesimg.com
+#增长   
+120.52.32.211 cart.xueersi.com 
+120.52.32.211 bizadmin.xesv5.com 
+120.52.32.211 mall.xueersi.com 
+120.52.32.211 laoshi.xueersi.com 
+120.52.32.211 examination.xueersi.com 
+120.52.32.211 exam.xueersi.com 
+
+
+#120.52.32.211 weixin.xueersi.com 
+120.52.32.211 ocenter.xueersi.com 
+120.52.32.211 trade.xueersi.com 
+120.52.32.211 fcdn.xesimg.com
+120.52.32.211 res12.xesimg.com
+120.52.32.211 res13.xesimg.com
+120.52.32.211 res14.xesimg.com
+120.52.32.211 res15.xesimg.com
+120.52.32.211 res16.xesimg.com
+120.52.32.211 res17.xesimg.com
+120.52.32.211 res18.xesimg.com
+120.52.32.211 lib01.xesimg.com
+120.52.32.211 lib02.xesimg.com
+120.52.32.211 lib03.xesimg.com
+120.52.32.211 lib04.xesimg.com
+
+120.52.32.211 img03.xesimg.com
+120.52.32.211 css03.xesimg.com
+120.52.32.211 js03.xesimg.com
+120.52.32.211 img04.xesimg.com
+120.52.32.211 css04.xesimg.com
+120.52.32.211 js04.xesimg.com
+120.52.32.211 static.xesimg.com
+120.52.32.211 xes01.xesimg.com
+120.52.32.211 xes02.xesimg.com
+120.52.32.211 xes03.xesimg.com
+120.52.32.211 xes04.xesimg.com
+120.52.32.211 flash.xesimg.com
+#账户余额
+10.99.1.230 custom.xesv5.com
+#商城
+120.52.32.211 appserver.xueersi.com
+120.52.32.211 app.chs.xueersi.com
+#配置中心
+120.52.32.211  configure.xesv5.com
+120.52.32.211  configureadmin.xesv5.com
+#老师域
+120.52.32.211 appadmin.xesv5.com
+120.52.32.211 appweb.xesv5.com
+120.52.32.211 appcenter.xueersi.com
+120.52.32.211 laoshi.xueersi.com
+#师资管理
+120.52.32.211 teachercenter.xesv5.com
+120.52.32.211 teacheradmin.xesv5.com
+10.90.70.61 teacherapiv2.xesv5.com
+10.90.70.103 adminapi.xesv5.com
+#查看Jenkins
+120.52.32.211  jenkins-test-a.xesv5.com
+#otms物流
+120.52.32.211 otms.xesv5.com
+10.90.70.68 otmsapi.xesv5.com
+
+#订单平台系统
+#10.90.70.103 api.xesv5.com
+#学习卡
+120.52.32.211 booster.xueersi.com
+10.90.71.25 bizactivity.xesv5.com
+#商城-new
+
+120.52.32.211 touch.xueersi.com
+120.52.32.211 exam.xueersi.com
+120.52.32.211 www.xueersi.com
+
+#优选课h5
+120.52.32.211 api.xueersi.com
+#120.52.32.211 app.xueersi.com
+120.52.32.211 app.xesv5.com
+
+#app h5登录
+10.90.72.141 galaxyh5.xueersi.com
+#日报系统
+10.90.71.149 mgqatool.xesv5.com
+124.250.113.88 etapi.xesv5.com
+120.52.32.211 t.xueersi.com
+#自动化建课
+10.170.78.13 appserver.ad.xesv5.com
+#k8s发布
+120.52.32.211 k8stest.xesv5.com
+#d
+120.52.32.211 openapi.wx5.com
+#磐石
+10.90.73.142  apits.xesv5.com
+# 供应链
+220.194.87.190 testmv.xesimg.com
+#建课平台
+10.90.71.149 mgqatool.xesv5.com
+#权限管理后台：
+120.52.32.211 app-inner.xesv5.com
+# 供应链
+10.90.71.149 mgqatool.xesv5.com
+10.90.71.118 autocounselor.xesv5.com
+120.52.32.211 yingxiao.xesv5.com
+#新客服后台
+120.52.32.211 kefu.xesv5.com
+#模糊测试
+10.90.72.18 fuzz_api-test.xesv5.com
+10.90.72.18 fuzz-test.xesv5.com
+# 供应链
+120.52.32.211 scm.xesv5.com
+220.194.87.190 testmv.xesimg.com
+120.52.32.211 erpapi.xesv5.com
+120.52.32.211 erpadmin.xesv5.com
+120.52.32.211 erp.xesv5.com
+#直播视频
+10.90.70.103 adminliveapi.xesv5.com
+#乐高
+120.52.32.211 legao.xueersi.com
+#素养测试
+120.52.32.211 www.xessuyang.com
+120.52.32.211 upload.xueersi.com
+120.52.32.211 haoke.xesv5.com
+
+10.90.31.110 ls-svc.xesv5.com
+120.52.32.211 resource.xesv5.com
+120.52.32.211 scm.100tal.com
+
+#ES s数据查询host
+10.90.101.39 ptyf-test-kibana.xesv5.com
+
+
+#彬彬给的
+# 供应链
+120.52.32.211 scm.xesv5.com
+120.52.32.211 upload.xueersi.com
+
+
+10.90.70.103 teacherv2api.xesv5.com
+10.90.70.103 teacherapi.xesv5.com
+120.52.32.211 teacheradmin.xesv5.com
+10.90.70.103 adminapi.xesv5.com
+
+
+10.90.70.103 courseapi.xesv5.com
+10.90.70.103 promotionapi.xesv5.com
+10.90.70.103 stucouapi.xesv5.com
+10.90.70.103 orderapi.xesv5.com
+10.90.70.103 cardcouponapi.xesv5.com
+
+120.52.32.211 admin.xesv5.com
+120.52.32.211 erp.xesv5.com
+10.90.70.103 erpapi.xesv5.com
+120.52.32.211 erpadmin.xesv5.com
+
+
+120.52.32.211 livemanage.xesv5.com
+10.90.70.103 stucouv2api.xesv5.com
+10.90.70.103 coursev2api.xesv5.com
+
+120.52.32.211 upload.xueersi.com
+10.90.70.103 classapi.xesv5.com
+#10.90.70.103  api.xesv5.com
+
+
+#ES s数据查询host
+10.90.101.39 ptyf-test-kibana.xesv5.com
+
+# 供应链test
+
+120.52.32.211 scm.xesv5.com
+120.52.32.211 admin.xesv5.com
+120.52.32.211 erpadmin.xesv5.com
+120.52.32.211 teacheradmin.xesv5.com
+120.52.32.211 scm.100tal.com 
+
+10.176.81.217 app.xesv5.com
+#我之前的
+#10.176.81.225 api.xesv5.com
+#青松的
+10.176.81.217 	api.xesv5.com
+
+82.157.159.110 md-astore-business-svc.speiyou.com 
+
+182.92.149.75 login.xueersi.com
+#182.92.149.75 app.xueersi.com
+120.52.32.211 app.xueersi.com
+
+10.176.81.217 app.xesv5.com 
+
