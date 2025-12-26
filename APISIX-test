@@ -9,8 +9,9 @@
 10.90.70.101 api.xesv5.com
 10.90.70.100 app.xueersi.com
 10.90.70.100 api.xueersi.com
-10.90.70.100 app.xesv5.com 
+# 10.90.70.100 app.xesv5.com
+10.176.81.217 app.xesv5.com
 10.90.70.100 api-test.xueersi.com
 10.90.70.100 service.xesv5.com
-10.90.70.100 zhishiku.xesv5.com 
+10.90.70.100 zhishiku.xesv5.com
 10.90.70.100 upload.xueersi.com
