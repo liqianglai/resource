@@ -3,16 +3,16 @@
 # 供应链
 10.90.70.101 otmsapi.xesv5.com
 10.90.70.101 api.xesv5.com
-10.90.70.100 app.xueersi.com
-10.90.70.100 api.xueersi.com
-10.90.70.100 app.xesv5.com
-10.90.70.100 api-test.xueersi.com
-10.90.70.100 service.xesv5.com
-10.90.70.100 zhishiku.xesv5.com
+182.92.149.75 app.xueersi.com
+182.92.149.75 api.xueersi.com
+182.92.149.75 app.xesv5.com
+182.92.149.75 api-test.xueersi.com
+182.92.149.75 service.xesv5.com
+182.92.149.75 zhishiku.xesv5.com
 
 # 上传
-10.90.70.100 upload.xueersi.com
+182.92.149.75 upload.xueersi.com
 
 # admin 平台
-10.90.70.100 admin.xesv5.com
-10.90.70.100 app-inner.xesv5.com
+182.92.149.75 admin.xesv5.com
+182.92.149.75 app-inner.xesv5.com
